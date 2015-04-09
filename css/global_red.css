@@ -2069,12 +2069,12 @@ a.list-group-item.active, a.list-group-item.active:hover, a.list-group-item.acti
 /*Custommenu========================================*/
 .nav-container{float:left; width:100%;}
 .nav-container .nav1{
-	background: url(../images/red/nav-left-red.png) 0 0 no-repeat;
+	background: url(../images/nav-left-red.png) 0 0 no-repeat;
 	margin-left: -33px;
 	padding-left: 13px;
 }
 .nav-container .nav2 {
-	background: url(../images/red/nav-right-red.png) right no-repeat;
+	background: url(../images/nav-right-red.png) right no-repeat;
 	margin-right: -33px;
 	padding-right: 13px;
 	padding-bottom: 63px;}
